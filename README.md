@@ -17,7 +17,6 @@ Analytical cast of mind, strong analytic power, creative approach for task solvi
 Please see the [employment](./employment/employment.readme.md) for further details.  
 
 **SBERBANK, Moscow, Russia, Feb 2018 - April 2022**     
-**Software Engineer**  
 - Managed to collect and systematize a lot of disparate information about the data entering the system, and the specifics of the work of third-party systems, data sources, documenting all the artifacts in the knowledge base (1,600 pages in Confluence).  
 - Developed a method for processing incoming data streams, a system architecture and a prototype for 3 streams, which allows supporters to quickly analyze and detect errors in the input data stream, as well as repeat loading, which greatly simplifies the search and correction of errors in the data stream and incorrectly processed records. After the
 pilot, all the remaining (more than 40 streams) sources were similarly redone.  
