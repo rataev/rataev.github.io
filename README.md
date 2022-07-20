@@ -41,7 +41,7 @@ notice, and take measures to correct the situation.
 - Completely rewrote the internal obsolete mechanisms of the desktop application using the new MVVM architecture, which hindered the development of the product due to excessive complexity and confusion.    
 - Accelerated and standardized the development of UI components, speeding up the implementation of new features by 2 times.
   
-**Here(Nokia, Navteq), Chicago, US onsite (1 year) and then remotely from Moscow, Russia), March 2011 - March 2013**  
+**HERE(Nokia, Navteq), Chicago, US onsite (1 year) and then remotely from Moscow, Russia), March 2011 - March 2013**  
 - Gained my first experience on site in a large international corporation in the US.  
 - Developed several raw data processing utilities to determine the quality of cartographic data for HERE systems.  
 - Developed an automated testing system for an internal QA and data editing application The Earthscape (C++ &amp; C# &amp; WPF) based on QTP, RobotFramework, and VB Script libraries.  
