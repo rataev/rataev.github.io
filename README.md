@@ -1,6 +1,6 @@
 # **MIKHAIL RATAEV** #   
 ![MIKHAIL RATAEV](about/RataevM-25.png "Mikhail Rataev")   
-Vancouver, BC | rataev@gmail.com | +1 (236) 862-8743 | <https://www.linkedin.com/in/mikhail-rataev>  
+Greater Vancouver Metropolitan Area, BC | rataev@gmail.com | +1 (236) 862-8743 | <https://www.linkedin.com/in/mikhail-rataev>  
 
 **`SOFTWARE ENGINEER  |  QUALITY ASSURANCE ENGINEER  |  TECH LEAD`**  
 
@@ -14,7 +14,7 @@ Analytical cast of mind, strong analytic power, creative approach for task solvi
 
 **`PROFESSIONAL EXPERIENCE`**  
 
-Please see the [employment](./employment/employment.readme.md) for further details.  
+Please see the [employment](employment/employment.readme.html) for further details.  
 
 **SBERBANK, Moscow, Russia, Feb 2018 - April 2022**     
 - Managed to collect and systematize a lot of disparate information about the data entering the system, and the specifics of the work of third-party systems, data sources, documenting all the artifacts in the knowledge base (1,600 pages in Confluence).  

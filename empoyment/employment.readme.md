@@ -1,3 +1,0 @@
-# MIKHAIL RATAEV
-
-Hello  
