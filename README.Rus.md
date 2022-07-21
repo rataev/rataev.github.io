@@ -1,6 +1,6 @@
 # **MIKHAIL RATAEV** #  
 ![MIKHAIL RATAEV](about/RataevM-25.png "Mikhail Rataev")   
-Vancouver, BC | rataev@gmail.com | +1 (236) 862-8743 | <https://www.linkedin.com/in/mikhail-rataev>  
+Greater Vancouver Metropolitan Area, BC | rataev@gmail.com | +1 (236) 862-8743 | <https://www.linkedin.com/in/mikhail-rataev>  
 
 **`SOFTWARE ENGINEER  |  QUALITY ASSURANCE ENGINEER  |  TECH LEAD`**  
 
